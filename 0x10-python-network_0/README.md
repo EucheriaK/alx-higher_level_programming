@@ -4,20 +4,20 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 General
 
-	hat a URL is
-	hat HTTP is
-	ow to read a URL
-	he scheme for a HTTP URL
-	hat a domain name is
-	hat a sub-domain is
-	ow to define a port number in a URL
-	hat a query string is
-	hat an HTTP request is
-	hat an HTTP response is
-	hat HTTP headers are
-	hat the HTTP message body is
-	hat an HTTP request method is
-	hat an HTTP response status code is
-	hat an HTTP Cookie is
+	What a URL is
+	What HTTP is
+	How to read a URL
+	The scheme for a HTTP URL
+	That a domain name is
+	That a sub-domain is
+	How to define a port number in a URL
+	What a query string is
+	What an HTTP request is
+	What an HTTP response is
+	What HTTP headers are
+	What the HTTP message body is
+	What an HTTP request method is
+	What an HTTP response status code is
+	What an HTTP Cookie is
 	How to make a request with URL
 	What happens when you type google.com in your browser
