@@ -19,5 +19,5 @@ General
 	hat an HTTP request method is
 	hat an HTTP response status code is
 	hat an HTTP Cookie is
-	ow to make a request with cURL
-	hat happens when you type google.com in your browser (Application level)
+	How to make a request with URL
+	What happens when you type google.com in your browser
